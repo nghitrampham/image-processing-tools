@@ -1,6 +1,7 @@
 # image-processing-tools
 
-![Alt text](gui_image_processing.png?raw=true "Title")
+![Alt text](logos/gui_image_processing.png?raw=true "Title")
+<!-- ![Alt text](/ReadMe.jpg?raw=true "Title") -->
 
 To start the GUI: 
 1. Navigate to the terminal and go to the path contain the file
