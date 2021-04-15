@@ -1,6 +1,6 @@
 # image-processing-tools
 
-![Alt text](logos/gui_image_processing.png?raw=true "Title")
+![Alt text](logos/gui_image_processing.jpg?raw=true "Title")
 <!-- ![Alt text](/ReadMe.jpg?raw=true "Title") -->
 
 To start the GUI: 
