@@ -1,4 +1,7 @@
 # image-processing-tools
+
+![Alt text](gui_image_processing.png?raw=true "Title")
+
 To start the GUI: 
 1. Navigate to the terminal and go to the path contain the file
 2. Run the command python3 mainGUI.py to start the GUI.
