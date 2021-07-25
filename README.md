@@ -1,4 +1,5 @@
 # image-processing-tools
+
 The aim of this project is to demonstrate how image processing techniques are 
 utilized to solve image processing problems and perform a real-time 
 demonstration of an image processing example via a simple graphic user interface (GUI).
